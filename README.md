@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YBDeve
 - 👀 I’m interested in making tools, cool programs etc
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently into Python and still learning
